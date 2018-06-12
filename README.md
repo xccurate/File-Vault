@@ -5,7 +5,7 @@
 
 3.Replace PASSWORD_GOES_HERE to whatever you would like your password to be
 
-4.Save as, save as all files, rename it to a batchfile by renaming it vault.batchfile
+4.Save as, save as all files, rename it to a batchfile by renaming it vault.bat
 
 5.Run it
 
