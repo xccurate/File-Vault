@@ -9,6 +9,6 @@
 
 5.Run it
 
-6.For better security you'll need to download a .bat to .exe program
+6.For better security you'll need to download a .bat to .exe converter, these are easy to find accross the web
 
 7.Enjoy hiding your private data from people!
